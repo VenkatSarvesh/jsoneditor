@@ -161,3 +161,5 @@ To minify the generated bundle, use [uglifyjs](https://github.com/mishoo/UglifyJ
 
     uglifyjs ./jsoneditor.custom.js -o ./jsoneditor.custom.min.js -m -c
 
+
+
